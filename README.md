@@ -1,2 +1,2 @@
 # pytesseract
-pytesseract for Python 3
+Fixing pytesseract to work with Python 3
